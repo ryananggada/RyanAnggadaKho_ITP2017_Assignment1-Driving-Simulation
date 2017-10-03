@@ -25,3 +25,4 @@ if distance_reached >= distance:
     print("The person reached the destination. (Reached {} m)".format(distance_reached))
 else:
     print("The person did not reach the destination. (Reached {} m)".format(distance_reached))
+    
